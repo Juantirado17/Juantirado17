@@ -1,4 +1,4 @@
-### Hi there 👋👨‍💻
+### Hi, I`m Juan Tirado 👋👨‍💻
 
 💫 About Me:
 
