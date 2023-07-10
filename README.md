@@ -3,8 +3,11 @@
 💫 About Me:
 
  🔭 I am currently working on improving my knowledge of new technologies.
+ 
  🌱 I like to undertake new projects to gain experience and professional growth in the area of technology.
+ 
  🤔 I consider myself a hard-working and collaborative person, I like to work in a team to solve problems.
+ 
  😄 I have worked in teams using Scrum methodologies.
 
 
