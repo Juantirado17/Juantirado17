@@ -13,11 +13,13 @@
 
 
  🌐 Socials:
+ 
  Facebook Instagram LinkedIn Twitter
 
 
 
 💻 Tech Stack:
+
  CSS3, HTML5, JavaScript, Vercel, Express.js, jQuery, Next JS, NodeJS, React, React Router, Redux ReduxToolkit, Mongo db, SASS, Styled Components
  Webpack, Postgres, Sequelize, Posgres y Node JS
 
