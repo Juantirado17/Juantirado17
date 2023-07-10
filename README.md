@@ -2,21 +2,21 @@
 
 💫 About Me:
 
- 🔭 I’m currently working on
-
-
-
+ 🔭 I am currently working on improving my knowledge of new technologies.
+ 🌱 I like to undertake new projects to gain experience and professional growth in the area of technology.
+ 🤔 I consider myself a hard-working and collaborative person, I like to work in a team to solve problems.
+ 😄 I have worked in teams using Scrum methodologies.
 
 
 
  🌐 Socials:
-Facebook Instagram LinkedIn Twitter
+ Facebook Instagram LinkedIn Twitter
 
 
 
 💻 Tech Stack:
-CSS3 HTML5 JavaScript Vercel Bootstrap Express.js jQuery Next JS NodeJS React React Router Redux SASS Styled Components
-TailwindCSS Webpack Postgres LINUX Notion
+ CSS3, HTML5, JavaScript, Vercel, Express.js, jQuery, Next JS, NodeJS, React, React Router, Redux ReduxToolkit, Mongo db, SASS, Styled Components
+ Webpack, Postgres, Sequelize, Posgres y Node JS
 
 
 <!--
